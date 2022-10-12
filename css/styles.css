@@ -1,0 +1,14 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: blue;
+  text-decoration: underline;
+  font-size: 40px;
+}
+.pop {
+  text-decoration: underline;
+}
+img {
+  float: left;
+  width: 50%;
+}
